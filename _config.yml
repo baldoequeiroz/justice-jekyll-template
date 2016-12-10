@@ -3,7 +3,7 @@
 
 title: Baldo e Queiroz Advogados
 url: "https://baldoequeiroz.github.io"
-baseurl:  /justice-jekyll-template
+baseurl:  "/justice-jekyll-template"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
