@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Justice Template
-url: "https://orchid-heron.cloudvent.net"
-baseurl:
+title: Baldo e Queiroz Advogados
+url: "http://www.baldoequeiroz.com.br"
+baseurl:  /justice-jekyll-template
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: 
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Baldo e Queiroz Advogados
+  email: advocacia@baldoequeiroz.com.br
+  twitter: baldoequeiroz # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: Baldo e Queiroz Advogados
   links:
     - https://github.com/CloudCannon/justice-jekyll-template
 
