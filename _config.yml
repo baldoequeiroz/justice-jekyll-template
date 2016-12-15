@@ -9,8 +9,8 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: 
+logo: /favicon.png
+description:
 author:
   name: Baldo e Queiroz Advogados
   email: advocacia@baldoequeiroz.com.br
@@ -24,7 +24,7 @@ social:
 # Build
 
 paginate: 10
-paginate_path: "/advice/:num/"
+paginate_path: "/blog/:num/"
 
 collections:
   - "staff_members"
