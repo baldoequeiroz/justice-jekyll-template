@@ -9,7 +9,7 @@ redirect_from:
 subtitle:
 bigimg:
 description:
-image: 
+image: "//imgur.com/dUUzoB6.png"
 author_staff_member: arthur
 author: Arthur Antunes Gomes Queiroz
 ---
