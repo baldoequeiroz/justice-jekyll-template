@@ -13,6 +13,7 @@ redirect_from:
 subtitle:
 bigimg:
 description:
+author_staff_member: arthur
 image: bancos.jpg
 author: Arthur Antunes Gomes Queiroz
 ---

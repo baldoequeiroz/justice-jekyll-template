@@ -1,7 +1,7 @@
 ---
 name: Franklin Silveira Baldo
 image: "/images/franklin480x480.jpg"
-credentials: FSB
+credentials: OAB/RO nº 5733
 phone_extension:
 ---
 

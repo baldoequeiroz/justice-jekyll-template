@@ -11,6 +11,7 @@ redirect_from:
 - /igreja-pokestop/pokemon-1543353_1920/
 - /blog/2016-08-05-igreja-pokestop/
 author: Franklin Silveira Baldo
+author_staff_member: franklin
 subtitle:
 bigimg: pokemon-1543353_1920-e1470430641816.jpg
 description:

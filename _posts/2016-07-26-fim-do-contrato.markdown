@@ -9,7 +9,8 @@ redirect_from:
 subtitle:
 bigimg:
 description:
-image: img\Handshake.jpg
+image: 
+author_staff_member: arthur
 author: Arthur Antunes Gomes Queiroz
 ---
 

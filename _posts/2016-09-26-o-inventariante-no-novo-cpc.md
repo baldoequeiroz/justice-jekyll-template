@@ -13,6 +13,7 @@ redirect_from:
 bigimg:
 description:
 image:
+author_staff_member: arthur
 author: Arthur Antunes Gomes Queiroz
 ---
 

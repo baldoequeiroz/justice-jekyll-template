@@ -9,7 +9,8 @@ tags: [internet, compra, direito do consumidor]
 bigimg:
 description:
 image: carrinho.png
-author:
+author_staff_member: arthur
+author: Arthur Antunes Gomes Queiroz
 ---
 Comprar produtos pela internet já virou prática rotineira de muitos brasileiros, seja pela praticidade de fazer a escolha sem sair de casa ou pela oferta de preços e descontos mais atrativos.
 

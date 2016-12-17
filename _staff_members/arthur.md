@@ -1,7 +1,7 @@
 ---
 name: Arthur Antunes Gomes Queiroz
 image: "/images/arthur480x480.jpg"
-credentials: AAGQ
+credentials: OAB/RO nº 7869
 phone_extension:
 ---
 
