@@ -9,7 +9,7 @@ categories:
 - herança
 - Direito civil
 - Direito sucessório
-author_staff_member: Arthur Antunes Gomes Queiroz
+author_staff_member: arthur
 image: "https://placehold.it/600/450?a=.png"
 large_header: false
 ---
