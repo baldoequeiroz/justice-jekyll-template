@@ -15,7 +15,7 @@ redirect_from:
 subtitle:
 bigimg:
 description:
-image: Swanger_vrou2-224x300.jpg
+image: /images/pregnancy-with-hearts.svg
 author_staff_member: arthur
 author: Arthur Antunes Gomes Queiroz
 ---
