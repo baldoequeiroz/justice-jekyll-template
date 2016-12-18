@@ -10,11 +10,4 @@
 		{% unless forloop.first %}&bull;{% endunless %}
 		<a class="post-summary-category" href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
 	{% endfor %}
-
-	{% if include.post.image %}
-		<div class="post-summary-image">
-			<img src="{% include relative-src.html src=include.post.image %}" alt="Photo of {{ include.post.title }}">
-		</div>
-	{% endif %}
-
 </p>
