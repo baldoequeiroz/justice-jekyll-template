@@ -4,12 +4,6 @@ layout: page
 
 {% include post-summary-details.html post=page %}
 
-{% if include.page.image %}
-	<div class="post-summary-image">
-		<img src="{% include relative-src.html src=include.page.image %}" alt="Photo of {{ include.page.title }}">
-	</div>
-{% endif %}
-
 <div>{{ content }}</div>
 
 <h2>Conheça o autor</h2>
