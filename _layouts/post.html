@@ -4,6 +4,12 @@ layout: page
 
 {% include post-summary-details.html post=page %}
 
+{% if include.post.image %}
+	<div class="post-summary-image">
+		<img src="{% include relative-src.html src=include.post.image %}" alt="Photo of {{ include.post.title }}">
+	</div>
+{% endif %}
+
 <div>{{ content }}</div>
 
 <h2>Conheça o autor</h2>
@@ -14,7 +20,7 @@ layout: page
 	{% include staff-member.html member=author %}
 </div>
 
-<h2>Leia mais</h2>
+<h2>Você pode gostar</h2>
 <ol class="post-links post-list">
 	{% if page.next %}
 		{% include post-summary.html post=page.next %}
@@ -24,7 +30,7 @@ layout: page
 </ol>
 
 {% if site.disqus_shortname %}
-	<h2>Have your say</h2>
+	<h2>Comentários</h2>
 	<div class="post-comments" id="disqus_thread"></div>
 
 	<script>
@@ -44,5 +50,5 @@ layout: page
 		(d.head || d.body).appendChild(s);
 		})();
 	</script>
-	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<noscript><a href="https://disqus.com/?ref_noscript">Habilite o  JavaScript</a> para ler os comentários os comentários</noscript>
 {% endif %}
