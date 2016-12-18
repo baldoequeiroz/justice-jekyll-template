@@ -6,7 +6,7 @@ url: "https://baldoequeiroz.github.io"
 baseurl:  "/justice-jekyll-template"
 google_analytics_key:
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: baldoequeiroz
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /favicon.png
@@ -35,8 +35,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/building.jpg
-      image: /uploads/building.jpg
+      background_image_path: /images/caixas-dgua-1dddde-2000x1125-36.jpg
+      image: /images/caixas-dgua-1dddde-2000x1125-36.jpg
   -
     scope:
       path: ""
